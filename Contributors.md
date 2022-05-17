@@ -1740,6 +1740,7 @@ Jawadur
 - [Tina Lambert] (https://github.com/tinalambert)
 - Andrew Freeman
 - [Prisca Chidimma] (https://github.com/Priceless-P)
+- [cloudvy](https://github.com/cloudvy)
 - Srishti
 - [Judy Bui] (https://github.com/JudyBui127)
 - [Amie Walton] (https://github.com/amielouise2)
